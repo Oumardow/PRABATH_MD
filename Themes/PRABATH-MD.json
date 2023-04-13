@@ -1,7 +1,7 @@
 {
   "__JSON__": true,
   "AUTHOR": "𝙿𝚁𝙰𝙱𝙰𝚃𝙷",
-  "LANGUAGE": "english",
+  "LANGUAGE": "FR",
   "LANGCODE": "en",
   "STRINGS": {
       "updater": {
@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": "*PRABATH-MD*",
+          "botName": "*༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆*",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : ".",
           "pic1": "https://i.ibb.co/7YGn5qS/20230305-135924.jpg",
